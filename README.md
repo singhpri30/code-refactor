@@ -8,7 +8,7 @@
 1. Added *header* tag and deleted *div* tag.
 2. Added *nav* tag for site navigation and deleted *div* tag.
 
-3.All the nav links should be assocaited with respective section's id.
+3.All the nav links should be assocaited with respective ids.
 1. Added id for section1: "search-engine-optimization"
 
 4.The figure element along with figure caption wraps image, charts and diagrams and related caption.
@@ -31,5 +31,7 @@
 
 1.Updated *div* tag to *nav* in css file.
 
-2.Grouped the selectors together which have same properties and values.
+2.Updated *div* tag to *footer*.
+
+3.Grouped the selectors together which have same properties and values.
 
